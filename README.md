@@ -238,4 +238,4 @@ This repository serves as the official landing page for Heavy Rain. The software
 **Get the most recent version of Heavy Rain today!**
 
 ---
-**Last updated:** 2026-09-19 16:20:39 UTC
+**Last updated:** 2026-09-19 19:13:18 UTC
